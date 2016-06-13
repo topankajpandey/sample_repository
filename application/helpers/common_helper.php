@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Function to send Email 
+ * Function to send Email    
  */
 
 function email_send_function($to, $sub, $msg) {
